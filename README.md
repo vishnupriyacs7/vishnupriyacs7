@@ -14,29 +14,19 @@ Currently focusing on:
 - API Testing & Automation
 
 ---
-
 ## Featured Projects
 
-### Selenium Test Automation Framework
-- Selenium WebDriver
-- Java
-- TestNG
-- Maven
-- Page Object Model (POM)
+### Selenium Automation Framework
+Java, Selenium WebDriver, TestNG, Maven, Page Object Model
 
-### Laravel Web Applications
-- Authentication & Authorization
-- CRUD Operations
-- Database Management
-- REST API Integration
+### Laravel Applications
+Authentication, CRUD Operations, Database Management, API Integration
 
 ### CodeIgniter Applications
-- Booking Management Systems
-- Invoice Management Systems
-- Rental Management Platforms
+Booking Management, Invoice Systems, Rental Management Platforms
 
 ### Personal Portfolio Website
-Responsive portfolio website showcasing projects, skills, and experience.
+Responsive portfolio showcasing projects and technical skills
 
 ---
 
