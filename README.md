@@ -45,9 +45,12 @@ Suffix E Solutions | Jan 2022 – Aug 2022
 
 ---
 
-## GitHub Statistics
+## Currently Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnupriyacs7&show_icons=true)
+- Playwright Automation
+- Python with Pytest
+- Advanced Laravel Development
+- API Automation
 
 ---
 
@@ -55,10 +58,10 @@ Suffix E Solutions | Jan 2022 – Aug 2022
 
 📧 Email: vishnupriyacs7@gmail.com
 
-💼 LinkedIn:
+💼 LinkedIn
 https://www.linkedin.com/in/vishnupriya-c-s
 
-🌐 GitHub:
+🌐 GitHub
 https://github.com/vishnupriyacs7
 
 ---
