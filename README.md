@@ -1,48 +1,17 @@
 # Hi, I'm Vishnupriya 👋
 
-## About Me
+Software Engineer | QA Automation Engineer | PHP Full Stack Developer
 
-Software Engineer with experience in both QA Automation and PHP Full Stack Development.
+Experienced in web application development, test automation, API testing, and database validation.
 
-I work on web application development, test automation, API testing, database validation, and software quality assurance. My experience includes PHP, Laravel, CodeIgniter, Selenium, Java, MySQL, and modern testing frameworks.
+Tech Stack:
+PHP • Laravel • CodeIgniter • MySQL • Java • Selenium • TestNG • Cucumber • JavaScript
 
----
-
-## Technical Skills
-
-### Development
-- PHP
-- Laravel
-- CodeIgniter
-- WordPress
-- MySQL
-- JavaScript
-- jQuery
-- HTML5
-- CSS3
-
-### Testing & Automation
-- Selenium WebDriver
-- TestNG
-- Cucumber
-- JUnit
-- Maven
-- API Testing (Postman)
-- Database Testing
-- Manual Testing
-- Regression Testing
-- Smoke Testing
-
-### Performance Testing
-- JMeter
-- LoadRunner
-
-### Tools
-- Git
-- GitHub
-- Jira
-- VS Code
-- Eclipse
+Currently focusing on:
+- QA Automation Framework Development
+- Playwright Automation
+- Laravel Web Applications
+- API Testing & Automation
 
 ---
 
