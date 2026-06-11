@@ -29,13 +29,19 @@ Booking Management, Invoice Systems, Rental Management Platforms
 Responsive portfolio showcasing projects and technical skills
 
 ---
+## Professional Experience
 
-## Currently Learning
+Software Tester & PHP Full Stack Developer
+Suffix E Solutions | Apr 2024 – Present
 
-- Playwright Automation
-- Python with Pytest
-- Advanced Laravel Development
-- API Automation
+- Manual and Automation Testing
+- Selenium WebDriver, TestNG, Cucumber
+- API Testing using Postman
+- PHP Development using Laravel and CodeIgniter
+- Database Validation using MySQL
+
+PHP Full Stack Developer
+Suffix E Solutions | Jan 2022 – Aug 2022
 
 ---
 
